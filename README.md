@@ -21,8 +21,6 @@ The following features include:
 6. Salesperson
 7. Price before discount
 8. Price after discount
-
-I add more future to get more insights and to make the data read-able. 
 9. Discount
 10. Difference price after discount
 11. Year
