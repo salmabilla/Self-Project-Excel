@@ -7,7 +7,7 @@ ABC Company is a company engaged in the sale of electronic goods such as refrige
 
 The sales system at ABC company is that there is a discount on every offline purchase depending on the strategy of each branch. Sales recording of ABC Electronic Store for the analysis is from 2020-2024.
 
-Here's the link to [portfolio](https://drive.google.com/file/d/1Vb-5zqdUuTM0NgHRz2TFFIz4ZyOYK43j/view?usp=sharing)
+Here's the link to [portfolio](https://drive.google.com/file/d/1Dmzltq7m8bYh2KUe6BWWfAZzoW-pi12F/view?usp=sharing)
 
 # Dataset Overview
 
